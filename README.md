@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sriram Maganti
 - 👀 I’m interested in Machine learning and Data science
-- 🌱 I’m currently learning Data Structures in Java + Python + C 
-- If you want to look at my personal projects in Java and C, I set them to private to please email me if you would like me to add you as a collaborator.
+- 🌱 I’m currently learning Data Structures in Java + Python + C + JavaScript
 - 📫 How to reach me 
 Email: smaganti@umass.edu
 
